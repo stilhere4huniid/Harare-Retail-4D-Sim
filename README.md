@@ -50,7 +50,7 @@ Harare-Retail-4D-Sim/
 ├── METHODOLOGY.md        # Technical explanation of the simulation logic
 ├── DOCUMENTATION.md      # Detailed documentation of features
 └── assets/               # Folder containing screenshots and images
-
+```
 ---
 
 # ⚠️ Disclaimer
