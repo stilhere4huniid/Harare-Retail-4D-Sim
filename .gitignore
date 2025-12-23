@@ -10,11 +10,5 @@ env/
 # Streamlit
 .streamlit/
 
-# Generated Reports & Images
-*.pdf
-*.jpg
-*.png
-temp_map_capture.jpg
-
 # OS
 .DS_Store
