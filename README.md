@@ -83,7 +83,7 @@ A "Time Travel" feature allowing stakeholders to visualize the project lifecycle
 * **Revenue Estimator:** Calibrated using 2025 market data (Simbisa/Tourism reports) to estimate turnover based on shopper quality, not just quantity.
 * **Live Catchment Map:** Interactive geospatial visualization of shopper migration patterns.
 
-![Geospatial Map](assets/2025-12-23%2013%2040%2029.jpg)
+![Geospatial Map](assets/2025-12-23%2013%2040%2029.png)
 
 ---
 
